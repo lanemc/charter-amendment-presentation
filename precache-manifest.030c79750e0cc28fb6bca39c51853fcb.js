@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd896fa66dffad02d3c019a97706be41",
+    "revision": "df962a57e7a0d7ffa4b24463f7934061",
     "url": "/charter-amendment-presentation/index.html"
   },
   {
-    "revision": "63053275c49c6f5e3577",
-    "url": "/charter-amendment-presentation/static/css/main.5ecd60fb.chunk.css"
+    "revision": "8d6becde961778a793d5",
+    "url": "/charter-amendment-presentation/static/css/main.241335ca.chunk.css"
   },
   {
-    "revision": "5a7dc7108e7580ff2c82",
-    "url": "/charter-amendment-presentation/static/js/2.203a069a.chunk.js"
+    "revision": "6b9fc12b3edce5434e9e",
+    "url": "/charter-amendment-presentation/static/js/2.11ccc754.chunk.js"
   },
   {
     "revision": "89ea5e0ed13930f7b9c9c2f392e27cfe",
-    "url": "/charter-amendment-presentation/static/js/2.203a069a.chunk.js.LICENSE.txt"
+    "url": "/charter-amendment-presentation/static/js/2.11ccc754.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63053275c49c6f5e3577",
-    "url": "/charter-amendment-presentation/static/js/main.76bc3354.chunk.js"
+    "revision": "8d6becde961778a793d5",
+    "url": "/charter-amendment-presentation/static/js/main.91d47dec.chunk.js"
   },
   {
     "revision": "22d144e175af41be9e1b",
