@@ -10,7 +10,7 @@ const Slide3 = () => {
       previousSlide="Slide2"
       nextSlide="Slide4"
     >
-      Hello I'm some content on slide 1
+      Hello I'm some content on slide 3
     </Slide>
   )
 }
