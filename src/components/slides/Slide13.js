@@ -8,7 +8,7 @@ const Slide13 = () => {
     <Slide
       slideTitle="Slide 13"
       previousSlide="Slide12"
-      home="TitleSlide"
+      home=""
     >
       Hello I'm some content on slide 13
     </Slide>
