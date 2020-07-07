@@ -15,7 +15,6 @@ import {
   Slide13
 } from './../components/slides'
 import App from '../App'
-import NavBar from '../components/nav/NavBar'
 import { Route, Switch, Redirect } from 'react-router-dom'
 
 export const Routes = () => {

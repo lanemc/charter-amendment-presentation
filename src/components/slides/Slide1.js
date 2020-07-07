@@ -7,7 +7,7 @@ const Slide1 = () => {
   return (
     <Slide
       slideTitle="Slide 1"
-      previousSlide="/"
+      previousSlide=""
       nextSlide="Slide2"
     >
       Hello I'm some content on slide 1
