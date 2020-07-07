@@ -1,26 +1,23 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import { makeStyles, Grid, Typography } from '@material-ui/core'
+import NavBar from './components/nav/NavBar'
 
-function App() {
+const App = () => {
+  const classes = useStyles()
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Grid container>
+      <Grid>
+        <Typography variant="h2">Title Slide</Typography>
+      </Grid>
+      <Grid container className={classes.navBar}>
+        <NavBar nextSlide="Slide1" />
+      </Grid>
+    </Grid>
+  )
 }
 
-export default App;
+const useStyles = makeStyles(theme => ({
+
+}))
+
+export default App
