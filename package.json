@@ -1,6 +1,6 @@
 {
   "name": "amendment-presentation",
-  "homepage": "http://lanemc.github.io/charter-amendment-presentation",
+  "homepage": "http://lanemc.github.io/charter-amendment-presentation/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
