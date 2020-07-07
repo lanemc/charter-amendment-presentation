@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/charter-amendment-presentation/static/css/main.5f361e03.chunk.css",
-    "main.js": "/charter-amendment-presentation/static/js/main.2b9e8e2a.chunk.js",
-    "main.js.map": "/charter-amendment-presentation/static/js/main.2b9e8e2a.chunk.js.map",
+    "main.css": "/charter-amendment-presentation/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/charter-amendment-presentation/static/js/main.76bc3354.chunk.js",
+    "main.js.map": "/charter-amendment-presentation/static/js/main.76bc3354.chunk.js.map",
     "runtime-main.js": "/charter-amendment-presentation/static/js/runtime-main.d03ad5cf.js",
     "runtime-main.js.map": "/charter-amendment-presentation/static/js/runtime-main.d03ad5cf.js.map",
-    "static/js/2.e92511ea.chunk.js": "/charter-amendment-presentation/static/js/2.e92511ea.chunk.js",
-    "static/js/2.e92511ea.chunk.js.map": "/charter-amendment-presentation/static/js/2.e92511ea.chunk.js.map",
+    "static/js/2.203a069a.chunk.js": "/charter-amendment-presentation/static/js/2.203a069a.chunk.js",
+    "static/js/2.203a069a.chunk.js.map": "/charter-amendment-presentation/static/js/2.203a069a.chunk.js.map",
     "index.html": "/charter-amendment-presentation/index.html",
-    "precache-manifest.db1e95f1afa2bc07b498c4dc7f587b8b.js": "/charter-amendment-presentation/precache-manifest.db1e95f1afa2bc07b498c4dc7f587b8b.js",
+    "precache-manifest.e94f09287f2c76335e680f1e718a9992.js": "/charter-amendment-presentation/precache-manifest.e94f09287f2c76335e680f1e718a9992.js",
     "service-worker.js": "/charter-amendment-presentation/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/charter-amendment-presentation/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e92511ea.chunk.js.LICENSE.txt": "/charter-amendment-presentation/static/js/2.e92511ea.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/charter-amendment-presentation/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5ecd60fb.chunk.css.map": "/charter-amendment-presentation/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.203a069a.chunk.js.LICENSE.txt": "/charter-amendment-presentation/static/js/2.203a069a.chunk.js.LICENSE.txt",
+    "static/media/mpls-logo.png": "/charter-amendment-presentation/static/media/mpls-logo.d8ab0c1f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d03ad5cf.js",
-    "static/js/2.e92511ea.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2b9e8e2a.chunk.js"
+    "static/js/2.203a069a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.76bc3354.chunk.js"
   ]
 }
