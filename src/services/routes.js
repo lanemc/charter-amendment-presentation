@@ -22,7 +22,7 @@ export const Routes = () => {
   return (
     <div>
       <Switch>
-        <Route path="/" component={App} />
+        <Route exact path="/" component={App} />
         <Route exact path="/Slide1" component={Slide1} />
         <Route exact path="/Slide2" component={Slide2} />
         <Route exact path="/Slide3" component={Slide3} />
