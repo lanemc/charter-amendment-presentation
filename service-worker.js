@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/charter-amendment-presentation/precache-manifest.030c79750e0cc28fb6bca39c51853fcb.js"
+  "/charter-amendment-presentation/precache-manifest.448e15b86fe69b4b3c7f36c87cd6cdc5.js"
 );
 
 self.addEventListener('message', (event) => {
