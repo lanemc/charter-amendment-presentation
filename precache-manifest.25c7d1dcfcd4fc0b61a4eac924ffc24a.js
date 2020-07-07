@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5cad17b63cf3afe665ee24229896206",
+    "revision": "96a5a7226fb1eefd4a528ca6c845b666",
     "url": "/charter-amendment-presentation/index.html"
   },
   {
-    "revision": "f1853843b03e357fc1e3",
+    "revision": "310e5b70c91c61ec809c",
     "url": "/charter-amendment-presentation/static/css/main.241335ca.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/charter-amendment-presentation/static/js/2.11ccc754.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1853843b03e357fc1e3",
-    "url": "/charter-amendment-presentation/static/js/main.1c49c2a3.chunk.js"
+    "revision": "310e5b70c91c61ec809c",
+    "url": "/charter-amendment-presentation/static/js/main.e35af83e.chunk.js"
   },
   {
     "revision": "22d144e175af41be9e1b",
