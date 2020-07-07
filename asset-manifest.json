@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/charter-amendment-presentation/static/css/main.241335ca.chunk.css",
-    "main.js": "/charter-amendment-presentation/static/js/main.ce084ebd.chunk.js",
-    "main.js.map": "/charter-amendment-presentation/static/js/main.ce084ebd.chunk.js.map",
+    "main.js": "/charter-amendment-presentation/static/js/main.1c49c2a3.chunk.js",
+    "main.js.map": "/charter-amendment-presentation/static/js/main.1c49c2a3.chunk.js.map",
     "runtime-main.js": "/charter-amendment-presentation/static/js/runtime-main.d03ad5cf.js",
     "runtime-main.js.map": "/charter-amendment-presentation/static/js/runtime-main.d03ad5cf.js.map",
     "static/js/2.11ccc754.chunk.js": "/charter-amendment-presentation/static/js/2.11ccc754.chunk.js",
     "static/js/2.11ccc754.chunk.js.map": "/charter-amendment-presentation/static/js/2.11ccc754.chunk.js.map",
     "index.html": "/charter-amendment-presentation/index.html",
-    "precache-manifest.448e15b86fe69b4b3c7f36c87cd6cdc5.js": "/charter-amendment-presentation/precache-manifest.448e15b86fe69b4b3c7f36c87cd6cdc5.js",
+    "precache-manifest.9995a07191d48af82d4f16ca3be9ccec.js": "/charter-amendment-presentation/precache-manifest.9995a07191d48af82d4f16ca3be9ccec.js",
     "service-worker.js": "/charter-amendment-presentation/service-worker.js",
     "static/css/main.241335ca.chunk.css.map": "/charter-amendment-presentation/static/css/main.241335ca.chunk.css.map",
     "static/js/2.11ccc754.chunk.js.LICENSE.txt": "/charter-amendment-presentation/static/js/2.11ccc754.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.d03ad5cf.js",
     "static/js/2.11ccc754.chunk.js",
     "static/css/main.241335ca.chunk.css",
-    "static/js/main.ce084ebd.chunk.js"
+    "static/js/main.1c49c2a3.chunk.js"
   ]
 }
