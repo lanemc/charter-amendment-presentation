@@ -8,7 +8,7 @@ const Slide = ({ children, slideTitle, previousSlide, nextSlide, home }) => {
     <Grid container>
       <Grid className={classes.slideContainer}>
         <Typography variant="h2">{slideTitle}</Typography>
-        {children}
+        <Typography>{children}</Typography>
       </Grid>
       <Grid container className={classes.navBar}>
         <NavBar previousSlide={previousSlide} nextSlide={nextSlide} home={home} />
